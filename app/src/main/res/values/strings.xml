@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Muslim Info</string>
+    <string name="tab1">DOA</string>
+    <string name="tab2">SHOLAT</string>
+    <string name="tab3">ZAKAT</string>
+
+    <string name="label_sholat1">Kiblat</string>
+    <string name="label_sholat2">Tata Cara Sholat</string>
+    <string name="label_sholat3">Jadwal Sholat</string>
+    <string name="label_sholat4">Doa Sholat</string>
+
+    <string name="label_zakat1">Zakat Mal</string>
+    <string name="label_zakat2">Zakat Profesi</string>
+    <string name="label_zakat3">Zakat Perdagangan</string>
+
+    <string name="action_about">Tentang</string>
+    <string name="action_faq">FAQ</string>
+
+    <string name="content_about">Version 1.1</string>
+    <string name="ucapan_about">Terimakasih kepada seluruh Tutor yang mengajarkan kami /n sehingga dapat membuat aplikasi ini dengan baik</string>
+    <string name="tentang">Aplikasi ini merupakan sebuah aplikasi mobile Android yang menyediakan beberapa fitur untuk mendapatkan Informasi soal Islam, juga beberapa Doa Doa pendek yang tersedia
+    untuk kalangan manapun yang menggunakannya</string>
+    <string name="informasi">Informasi Pembuat</string>
+    <string name="nama">Afif Abdurafi, Floridia Anggitasari, Gilang Hamdan, Iwan Darmawan</string>
+</resources>
